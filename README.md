@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **LLM'S**
 
-- 👨‍💻 All of my projects are available at [nikethbayya.github.io](https://nikethbayya.github.io)
+- 👨‍💻 My Portfolio [nikethbayya](https://nikethbayya.github.io)
 
 - 💬 Ask me about **Machine Learning, Software Development**
 
