@@ -3,20 +3,53 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikethbayya&label=Profile%20views&color=0e75b6&style=flat" alt="nikethbayya" /> </p>
 
-- I am Niketh Bayya Mahesh, currently pursuing a Master of Science in Computer Science at Indiana University Bloomington. With a strong foundation in Machine Learning, Software Development, and IoT, I specialize in developing scalable, high-performance applications that leverage cutting-edge AI and cloud technologies. I am passionate about solving complex challenges through AI-driven solutions and backend development. My expertise includes designing scalable architectures, optimizing ML models, and integrating intelligent automation into real-world applications **.**
+I'm a passionate Machine Learning Enthusiast and Software Engineer with a strong background in Machine Learning, Software Development, and IoT. I specialize in crafting scalable, high-performance applications powered by cutting-edge AI and cloud technologies. I specialize in building intelligent systems using LLMs, RAG/CRAG pipelines, and real-time AI architectures. From optimizing 193M+ record geospatial engines to designing modular LLM-powered document pipelines, I turn complex challenges into scalable solutions. With a strong foundation in cloud-native ML, graph-based retrieval, and prompt engineering, I aim to build tech that not only works but also learns and evolves. Let’s build what’s next.
 
-- 🌱 I’m currently learning **LLM'S**
+<hr style="height:4px; background-color:#007acc; border:none;" />
 
-- 👨‍💻 My Portfolio [nikethbayya](https://nikethbayya.github.io)
+## 🔍 **About me:**
+🎓 Master's in Computer Science @ Indiana University Bloomington  
+💼 Ex-Software Developer @ Lennox International Inc.  
+🌱 Constantly learning and exploring new technologies  
+🤝 Open to collaboration on exciting projects  
+📧 Reach me at nikethbayya2001@gmail.com  
+🌐 Check my <a href="https://your-portfolio-link.com" target="blank" style="margin-left: 10px; font-weight: bold; font-size: 16px; text-decoration: none;">Portfolio</a>
 
-- 💬 Ask me about **Machine Learning, Software Development**
+<hr style="height:4px; background-color:#007acc; border:none;" />
 
-- 📫 How to reach me **nbayyam@iu.edu**
+## 🔍 **What I Love Doing:**
+* Solving complex challenges through AI-driven solutions
+* Designing scalable architectures for real-world applications
+* Optimizing Machine Learning models for peak performance
+* Integrating intelligent automation into diverse systems
 
-<h3 align="left">Connect with me:</h3>
+<hr style="height:4px; background-color:#007acc; border:none;" />
+
+## 🛠️ **Technical Skills:**
+**Languages/Developer Tools:** Python, C/C++, C#, JavaScript, HTML/CSS, SQL, Git, Docker, VS Code, Visual Studio
+
+**Frameworks/Libraries:** React.js, Node.js, Flask, .NET, Neo4j (Graph Data Modeling), NLTK, Hugging Face
+Transformers, Pandas, NumPy, Matplotlib, Scikit-Learn, TensorFlow, PyTorch, CUDA
+
+**Databases/Cloud:** MySQL, PostgreSQL, PostGIS, MongoDB, Neo4j, Microsoft Azure, AWS  
+
+**Machine Learning/AI:** RAG, Linear/Logistic Regression, Clustering, Classification, SVM, Reinforcement Learning,
+Neural Networks, RNNs, LSTMs, Transformers (BERT, GPT-3), LLMs, CRAG  
+
+<hr style="height:4px; background-color:#007acc; border:none;" />
+
+## 📜 Certifications
+
+  ![AWS Badge](https://img.shields.io/badge/AWS%20Certified%20Machine%20Learning-Associate-%23FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+  [AWS Certified Machine Learning – Associate](https://www.credly.com/badges/5bd91822-911a-457f-be16-a32f62e4b2e2/public_url)
+
+
+<hr style="height:4px; background-color:#007acc; border:none;" />
+
+<h3 align="left">📫 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/niketh-bayya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niketh-bayya" height="30" width="40" /></a>
+<a href="mailto:nbayyam@iu.edu" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="40" /></a>
+<a href="https://your-portfolio-link.com" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/domain.png" alt="portfolio" height="30" width="40"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
