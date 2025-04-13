@@ -41,7 +41,7 @@ Neural Networks, RNNs, LSTMs, Transformers (BERT, GPT-3), LLMs, CRAG
 ## 📜 Certifications
 
   ![AWS Badge](https://img.shields.io/badge/AWS%20Certified%20Machine%20Learning-Associate-%23FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-  [AWS Certified Machine Learning – Associate](https://www.credly.com/badges/5bd91822-911a-457f-be16-a32f62e4b2e2/public_url)
+  [Click Here](https://www.credly.com/badges/5bd91822-911a-457f-be16-a32f62e4b2e2/public_url)
 
 
 <hr style="height:4px; background-color:#007acc; border:none;" />
