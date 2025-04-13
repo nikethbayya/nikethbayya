@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Niketh Bayya Mahesh</h1>
 <h3 align="center">🚀 AI/ML Engineer | Software Engineer | IoT Developer</h3>
+<h5 align="center">🧠 "Driven by curiosity. Guided by data. Built for impact."</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikethbayya&label=Profile%20views&color=0e75b6&style=flat" alt="nikethbayya" /> </p>
 
@@ -52,4 +53,3 @@ Neural Networks, RNNs, LSTMs, Transformers (BERT, GPT-3), LLMs, CRAG
 <a href="mailto:nbayyam@iu.edu" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="40" /></a>
 <a href="https://your-portfolio-link.com" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/domain.png" alt="portfolio" height="30" width="40"/></a>
 </p>
-
