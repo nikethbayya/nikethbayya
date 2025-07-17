@@ -14,7 +14,7 @@ I'm a passionate Machine Learning Enthusiast and Software Engineer with a strong
 🌱 Constantly learning and exploring new technologies  
 🤝 Open to collaboration on exciting projects  
 📧 Reach me at nikethbayya2001@gmail.com  
-🌐 Check my <a href="https://your-portfolio-link.com" target="blank" style="margin-left: 10px; font-weight: bold; font-size: 16px; text-decoration: none;">Portfolio</a>
+🌐 Check my <a href="https://nikethbayya.vercel.app/" target="blank" style="margin-left: 10px; font-weight: bold; font-size: 16px; text-decoration: none;">Portfolio</a>
 
 <hr style="height:4px; background-color:#007acc; border:none;" />
 
