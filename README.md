@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niketh Bayya Mahesh</h1>
-<h3 align="center">🚀 AI/ML Engineer | Software Engineer | IoT Developer</h3>
+<h3 align="center">🚀 AI/ML Engineer | Software Engineer | Data Scientist</h3>
 <h5 align="center">🧠 "Driven by curiosity. Guided by data. Built for impact."</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikethbayya&label=Profile%20views&color=0e75b6&style=flat" alt="nikethbayya" /> </p>
